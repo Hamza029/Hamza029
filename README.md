@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Hamza029
+- 👋 Hi, I’m Hamza
 - 👀 I’m a student and I'm interested in competitive programming and software development
 - 🌱 I’m currently learning different data structures and algorithms that are frequently used in competitive programming
