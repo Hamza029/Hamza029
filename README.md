@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hamza029&label=Profile%20views&color=0e75b6&style=flat" alt="hamza029" /> </p>
 
 <div align="center">
-  <h3 style="color:green">National Contest Performances</h3>
+  <h3 style="color:green;">National Contest Performances</h3>
 
 | Contest | Username | Rank | Type | Scope
 | -- | -------- | ----------- | ---- | ---- |
