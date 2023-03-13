@@ -8,6 +8,7 @@
 | Contest | Username | Rank | Type | Scope
 | -- | -------- | ----------- | ---- | ---- |
 | [ICPC Dhaka Regional 2022](https://algo.codemarshal.org/contests/dhaka-22/standings) | AUST_CrackPlatoon| 33 | Team | National |
+| [AUST IUPC 2022](https://algo.codemarshal.org/contests/aust-2022/standings) | AUST_SLYTHERIN| 53 | Team | National |
 
 - 🌱 I’m currently learning **various data structures and algorithms that are frequently used in competitive programming**
 
