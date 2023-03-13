@@ -5,7 +5,7 @@
 
 # national-contest-performances
 
-| Contest | Username | Rank | Type
+| Contest | Username | Rank | Type |
 | -- | -------- | ----------- | ---- | ---- |
 | [2022 ICPC Asia Dhaka Regional](https://algo.codemarshal.org/contests/dhaka-22/standings) | AUST_CrackPlatoon| 33 | Team |
 
