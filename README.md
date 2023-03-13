@@ -5,9 +5,8 @@
 
 # national-contest-performances
 
-| Contest | Username | Rank | Type |
-| -- | -------- | ----------- | ---- | ---- |
-| [2022 ICPC Asia Dhaka Regional](https://algo.codemarshal.org/contests/dhaka-22/standings) | AUST_CrackPlatoon| 33 | Team |
+| Contest | Username | Rank | Type | Scope
+| [2022 ICPC Asia Dhaka Regional](https://algo.codemarshal.org/contests/dhaka-22/standings) | AUST_CrackPlatoon| 33 | Team | National |
 
 - 🌱 I’m currently learning **various data structures and algorithms that are frequently used in competitive programming**
 
