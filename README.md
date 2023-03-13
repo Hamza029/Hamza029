@@ -3,11 +3,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hamza029&label=Profile%20views&color=0e75b6&style=flat" alt="hamza029" /> </p>
 
-# contest-performances
+# national-contest-performances
 
-| Contest | Username | Rank | Type | Scope
+| Contest | Username | Rank | Type
 | -- | -------- | ----------- | ---- | ---- |
-| [RUET IUPC 2019](https://algo.codemarshal.org/contests/ruet-iupc-19/standings) | SUST_Braindead_Zombies| 2 | Team | National |
+| [2022 ICPC Asia Dhaka Regional](https://algo.codemarshal.org/contests/dhaka-22/standings) | AUST_CrackPlatoon| 33 | Team |
 
 - 🌱 I’m currently learning **various data structures and algorithms that are frequently used in competitive programming**
 
