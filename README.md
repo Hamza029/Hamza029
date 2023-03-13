@@ -7,7 +7,7 @@
 
 | Contest | Username | Rank | Type | Scope
 | -- | -------- | ----------- | ---- | ---- |
-| [RUET IUPC 2019](https://algo.codemarshal.org/contests/ruet-iupc-19/standings) | SUST_Braindead_Zombies| 2 | Team | National |
+| [ICPC Dhaka Regional 2022](https://algo.codemarshal.org/contests/dhaka-22/standings) | AUST_CrackPlatoon| 33 | Team | National |
 
 - 🌱 I’m currently learning **various data structures and algorithms that are frequently used in competitive programming**
 
