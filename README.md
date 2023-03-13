@@ -10,6 +10,8 @@
 | [ICPC Dhaka Regional 2022](https://algo.codemarshal.org/contests/dhaka-22/standings) | AUST_CrackPlatoon | 33 | Team | National |
 | [AUST IUPC 2022](https://algo.codemarshal.org/contests/aust-2022/standings) | AUST_SLYTHERIN | 53 | Team | National |
 | [BUET IUPC 2022](https://toph.co/c/buet-inter-university-2022/standings) | AUST_SillyMistakes | 74 | Team | National |
+| [ICPC Dhaka Regional 2022 Preliminary](https://algo.codemarshal.org/contests/icpc-dhaka-22-preli/standings) | AUST_CrackPlatoon | 61 | Team | National |
+| [ICPC Dhaka Regional 2021](https://algo.codemarshal.org/contests/icpc-dhaka-21-preli/standings) | AUST_SillyMistakes | 72 | Team | National |
 
 - 🌱 I’m currently learning **various data structures and algorithms that are frequently used in competitive programming**
 
