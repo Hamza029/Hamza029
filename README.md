@@ -16,12 +16,13 @@
 </div>
 
 
-<h3 align="center">My social and OJ profiles</h3>
-<p align="center">
-<a href="https://fb.com/nahin.hamza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nahin.hamza" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/29logN" target="blank"><img align="center" src="code-forces.png" alt="29logN" height="40" width="35" /></a>
-<a href="https://atcoder.jp/users/syntaxError029" target="blank"><img align="center" src="https://img.atcoder.jp/assets/atcoder.png" alt="syntaxError029" height="35" width="35" /></a>
-</p>
+<div align="center">
+  <h3>National Contest Performances</h3>
+
+| Platform | Username
+| -- | -------- |
+| [ICPC Dhaka Regional 2022](https://algo.codemarshal.org/contests/dhaka-22/standings) | AUST_CrackPlatoon |
+</div>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamza029&show_icons=true&locale=en" alt="hamza029" /></p>
 
