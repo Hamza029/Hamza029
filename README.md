@@ -21,8 +21,9 @@
 
 | Platform | Username
 | -- | -------- |
-| [ICPC Dhaka Regional 2022](https://algo.codemarshal.org/contests/dhaka-22/standings) | AUST_CrackPlatoon |
+| CodeForces | [29logN](https://codeforces.com/profile/29logN) |
 </div>
+
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamza029&show_icons=true&locale=en" alt="hamza029" /></p>
 
