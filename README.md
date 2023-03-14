@@ -26,7 +26,7 @@
 | CodeChef | [syntaxerror029](https://www.codechef.com/users/syntaxerror029) |
 | Vjudge | [syntaxError029](https://vjudge.net/user/syntaxError029) |
 | Toph | [IbnaHamza](https://toph.co/u/IbnaHamza) |
-| Spoj | [syntaxerror029]https://www.spoj.com/status/syntaxerror029/) |
+| Spoj | [syntaxerror029](https://www.spoj.com/users/syntaxerror029/) |
 | UVa | [syntaxError029](https://uhunt.onlinejudge.org/id/1191146) |
 </div>
 
