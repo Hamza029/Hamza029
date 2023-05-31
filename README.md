@@ -9,6 +9,7 @@
 | Contest | Username | Rank | Type | Scope
 | -- | -------- | ----------- | ---- | ---- |
 | [ICPC Dhaka Regional 2022](https://algo.codemarshal.org/contests/dhaka-22/standings) | AUST_CrackPlatoon | 33 | Team | National |
+| [ICPC Asia West Continent Final 2022](https://icpc.codedrills.io/contests/icpc-asia-west-continent-final-contest-2022/scoreboard) | AUST_CrackPlatoon | 51 | Team | International |
 | [AUST IUPC 2022](https://algo.codemarshal.org/contests/aust-2022/standings) | AUST_SLYTHERIN | 53 | Team | National |
 | [ICPC Dhaka Regional 2022 Preliminary](https://algo.codemarshal.org/contests/icpc-dhaka-22-preli/standings) | AUST_CrackPlatoon | 61 | Team | National |
 | [ICPC Dhaka Regional 2021 Preliminary](https://algo.codemarshal.org/contests/icpc-dhaka-21-preli/standings) | AUST_SillyMistakes | 72 | Team | National |
