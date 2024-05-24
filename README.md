@@ -9,6 +9,11 @@
 | Contest | Username | Rank | Type | Scope
 | -- | -------- | ----------- | ---- | ---- |
 | [ICPC Dhaka Regional 2022](https://algo.codemarshal.org/contests/dhaka-22/standings) | AUST_CrackPlatoon | 33 | Team | National |
+| [CUET IUPC 2024]() | AUST_RedX | 13 | Team | National
+| [SUST IUPC 2024]() | AUST_RedX | 16 | Team | National
+| [JU NCPC 2024]() | AUST_Shunno7 | 34 | Team | National
+| [IUT IUPC 2024]() | AUST_Shunno7 | 34 | Team | National
+| [CoU IUPC 2023]() | AUST_RedX | 20 | Team | National
 | [ICPC Asia West Continent Final 2022](https://icpc.codedrills.io/contests/icpc-asia-west-continent-final-contest-2022/scoreboard) | AUST_CrackPlatoon | 51 | Team | International |
 | [BUET IUPC 2023](https://toph.co/c/buet-inter-university-2023/standings/kiosk) | AUST_RedX | 21 | Team | National |
 | [AUST IUPC 2022](https://algo.codemarshal.org/contests/aust-2022/standings) | AUST_SLYTHERIN | 53 | Team | National |
